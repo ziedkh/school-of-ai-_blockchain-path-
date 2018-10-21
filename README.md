@@ -70,7 +70,7 @@ ______________________________________________Blockchain the future of ai _part 
 8.IPFS
 
 __________________________________________________Blockchain the future of ai _part 3:
- # Code and deploy our first Daap using Ethereum blockchain
+ # Code and deploy our first Dapp using Ethereum blockchain
  (06:30h)
  
 # SESSION 1: 03:30h
